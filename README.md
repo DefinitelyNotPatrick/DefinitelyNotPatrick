@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DefinitelyNotPatrick/DefinitelyNotPatrick/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/DefinitelyNotPatrick/DefinitelyNotPatrick/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
