@@ -18,4 +18,52 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
-  <img
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=enziu&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enziu&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</div>
+
+---
+
+### 🤝 Let's Collaborate:
+
+If you're looking for a creative front-end developer or just want to work together on cool web projects, feel free to reach out!
+
+- 💡 Open to open-source collaboration
+- 🔍 Interested in UI/UX + modern design
+- 🌍 Available for freelance or team projects
+
+---
+
+### 🌐 Find Me Here:
+
+<div align="left">
+  <a href="https://www.youtube.com/@enziu_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/superpatryko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=ENZIU_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  <a href="https://www.linkedin.com/in/patryk-st%C4%99pie%C5%84-67b608319/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/enziu_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="https://ko-fi.com/enziu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Ko-fi" />
+  </a>
+</div>
+
+---
