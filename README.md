@@ -51,9 +51,6 @@ If you're looking for a creative front-end developer or just want to work togeth
   <a href="https://www.youtube.com/@enziu_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
   </a>
-  <a href="https://www.instagram.com/superpatryko" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
   <img src="https://img.shields.io/static/v1?message=ENZIU_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   <a href="https://www.linkedin.com/in/patryk-st%C4%99pie%C5%84-67b608319/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
