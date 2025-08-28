@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
-  <img src="https://www.svgrepo.com/show/452077/npm.svg" height="30" padding-left="2" alt="Npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/npm-original.svg" height="30" padding-left="2" alt="Npm" />
 </div>
 
 ---
