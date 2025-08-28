@@ -47,8 +47,6 @@ If you're looking for a creative front-end developer or just want to work togeth
 
 ---
 
-<img src="https://raw.githubusercontent.com/DefinitelyNotPatrick/DefinitelyNotPatrick/output/snake.svg" alt="Snake animation" />
-
 ### 🌐 Find Me Here:
 
 <div align="left">
