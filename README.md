@@ -28,15 +28,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=enziu&show_icons=true&theme=radical" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enziu&layout=compact&theme=radical" height="160" alt="Top Languages" />
-</div>
-
----
-
 ### 🤝 Let's Collaborate:
 
 If you're looking for a creative front-end developer or just want to work together on cool web projects, feel free to reach out!
