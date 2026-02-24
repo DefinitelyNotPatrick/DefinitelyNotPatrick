@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋<br><br>My name is Patrick and I'm a web developer from Poland 🇵🇱</h1>
+<h1 align="left">Hi 👋<br><br>My name is Patrick, and I'm a web developer from Poland 🇵🇱</h1>
 
 ---
 
